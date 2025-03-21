@@ -29,6 +29,8 @@
   NOT FULLY COMPATIBLE: PoSh 2 or lower
 #>
 
+This is an edit of the file to change its hash signature.
+
 ######################## FUNCTIONS ########################
 
 [CmdletBinding()]
